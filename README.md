@@ -34,5 +34,6 @@ Certainly! Here's your text rephrased into two separate paragraphs in first-pers
 
  - [@JackedProgrammer](https://github.com/JackedProgrammer)
  - [Full Speed Mac & PC](https://www.youtube.com/@FullSpeedMacAndPC)
+ - [ConvertCSV](https://www.convertcsv.com/)
  - [readme.so](https://readme.so/)
 
