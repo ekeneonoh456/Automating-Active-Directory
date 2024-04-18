@@ -6,7 +6,7 @@ To further my previous project regarding Active Directory Domains, I decided to 
 
 ## Report
 
-[PDF Document](https://drive.google.com/file/d/1DKWXcEQ38dDSwfV_QRBUTFMOB-ovaf2I/view?usp=sharing)
+[PDF Document](https://drive.google.com/file/d/1uRLrpQ8n6qKdsO5CC7G1a6j3Q8H6ejoh/view?usp=sharing)
 
 
 ## Authors
@@ -21,9 +21,9 @@ PowerShell ISE, Microsoft Active Dierctory, Microsoft Windows Server 2019, Oracl
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/screenshots/demo creating new users.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/screenshots/AD after.png)
 ## Lessons Learned & Future Plans
 
 Certainly! Here's your text rephrased into two separate paragraphs in first-person: In conclusion, this PowerShell script represents a significant milestone in my programming journey. It has not only taught me how to use PowerShell ISE effectively but also introduced me to new coding strategies. Through this project, I have gained valuable insights into the potential for automation and improvement in managing Active Directory. Compared to my initial project involving virtual machines, this experience has been a substantial step forward in building my overall IT knowledge foundation. Projects like these highlight the importance of hands-on experience in the IT field. They provide a practical understanding of complex systems like Active Directory and demonstrate the power of automation in simplifying administrative tasks. This project, in particular, has shown me the potential for further automation and enhancement in managing Active Directory, leaving me eager to explore more advanced scripting techniques and expand my IT skills further.
