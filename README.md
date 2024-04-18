@@ -21,7 +21,7 @@ PowerShell ISE, Microsoft Active Dierctory, Microsoft Windows Server 2019, Oracl
 
 ## Screenshots
 
-![App Screenshot](/screenshots/demo%20creating%20new users.png)
+![App Screenshot](/screenshots/demo%20creating%20new%20users.png)
 
 ![App Screenshot](/screenshots/AD%20after.png)
 ## Lessons Learned & Future Plans
